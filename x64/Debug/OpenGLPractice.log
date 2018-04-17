@@ -1,0 +1,9 @@
+﻿  Game.cpp
+c:\users\shrew\source\repos\openglpractice\openglpractice\game.cpp(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shrew\source\repos\openglpractice\openglpractice\game.cpp(34): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\shrew\source\repos\openglpractice\openglpractice\game.cpp(40): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\shrew\source\repos\openglpractice\openglpractice\game.cpp(41): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\shrew\source\repos\openglpractice\openglpractice\game.cpp(72): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\shrew\source\repos\openglpractice\openglpractice\game.cpp(85): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shrew\source\repos\openglpractice\openglpractice\game.cpp(129): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGLPractice.vcxproj -> C:\Users\shrew\source\repos\OpenGLPractice\x64\Debug\OpenGLPractice.exe
